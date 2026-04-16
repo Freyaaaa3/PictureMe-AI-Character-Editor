@@ -24,4 +24,7 @@ AI-powered image editor for hairstyle, makeup, fashion & time travel. Compare �
 
 立即体验：python app.py 访问 http://localhost:5000
 
+<img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/a685a9a0-f0d6-40e4-9898-185807d0e7fe" />
+
+
 [人工智能ai4-最终版.pdf](https://github.com/user-attachments/files/26784096/ai4-.pdf)
