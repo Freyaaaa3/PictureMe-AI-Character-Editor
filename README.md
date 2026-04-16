@@ -1,5 +1,7 @@
 # Picture-Me-AI-
 Picture Me – AI 人物形象编辑器 一站式 AI 图像生成工具，专注于改变图片中人物的发型、妆容、风格及年代感。上传一张人像，选择「发型设计」「妆容风格」「风格照片」或「时间穿越」功能，系统自动调用 通义万相 与 豆包 API 同时生成两张对比图片，直观比较不同模型的效果。
+
+
 AI-powered image editor for hairstyle, makeup, fashion & time travel. Compare 通义万相 vs 豆包 API side‑by‑side. RAG prompt enhancement with DeepSeek‑R1. Flask web UI.
 
 ✨ 核心亮点
