@@ -32,5 +32,7 @@ AI-powered image editor for hairstyle, makeup, fashion & time travel. Compare �
 
 <img width="1276" height="672" alt="image" src="https://github.com/user-attachments/assets/f5a596f9-20f2-470a-960e-35141da0b3a6" />
 
+<img width="1264" height="659" alt="image" src="https://github.com/user-attachments/assets/20794e92-42de-4a99-8c80-33073965f8ee" />
+
 
 [人工智能ai4-最终版.pdf](https://github.com/user-attachments/files/26784096/ai4-.pdf)
